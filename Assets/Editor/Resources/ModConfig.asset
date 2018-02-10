@@ -13,7 +13,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   id: poker
   title: Poker
-  description: 'Poker v1.3
+  description: 'Poker v1.31
 
     Usually in poker, the wrong call means losing a lot of money. Here, it means death.
 
@@ -33,6 +33,6 @@ MonoBehaviour:
 
 
     Manual available here: https://ktane.timwi.de/HTML/Poker.html'
-  version: 1.3
+  version: 1.31
   outputFolder: build
   previewImage: {fileID: 2800000, guid: d148fc9ae41804f348f33d96a3b2ff73, type: 3}

@@ -283,7 +283,7 @@ using Poker;
                 {
                     if (Bomb.IsIndicatorOn("FRK") || Bomb.IsIndicatorOn("BOB"))
                     {
-                        if (Bomb.GetSerialNumberNumbers().Count() % 2 == 0)
+                        if (Bomb.GetSerialNumberNumbers().Sum() % 2 == 0)
                         {
                             if (Bomb.GetPortCount(Port.RJ45) >= 1)
                             {
